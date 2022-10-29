@@ -1,0 +1,7 @@
+.todos__item {
+  font-size: 2em;
+}
+.todos__item.completed {
+  text-decoration: line-through;
+  color: rgb(95, 94, 94);
+}
